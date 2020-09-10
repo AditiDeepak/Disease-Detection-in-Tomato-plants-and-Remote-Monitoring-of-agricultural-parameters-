@@ -1,0 +1,1 @@
+# Disease-Detection-in-Tomato-plants-and-Remote-Monitoring-of-agricultural-parameters-
